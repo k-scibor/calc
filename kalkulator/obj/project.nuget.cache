@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "CtIWV9keA/8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\4m\\source\\repos\\kalkulator\\kalkulator\\kalkulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\4m\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
+    "C:\\Users\\4m\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\1.6.3\\microsoft.testing.extensions.telemetry.1.6.3.nupkg.sha512",
+    "C:\\Users\\4m\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\1.6.3\\microsoft.testing.extensions.trxreport.abstractions.1.6.3.nupkg.sha512",
+    "C:\\Users\\4m\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\1.6.3\\microsoft.testing.extensions.vstestbridge.1.6.3.nupkg.sha512",
+    "C:\\Users\\4m\\.nuget\\packages\\microsoft.testing.platform\\1.6.3\\microsoft.testing.platform.1.6.3.nupkg.sha512",
+    "C:\\Users\\4m\\.nuget\\packages\\microsoft.testing.platform.msbuild\\1.6.3\\microsoft.testing.platform.msbuild.1.6.3.nupkg.sha512",
+    "C:\\Users\\4m\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.13.0\\microsoft.testplatform.objectmodel.17.13.0.nupkg.sha512",
+    "C:\\Users\\4m\\.nuget\\packages\\mstest.analyzers\\3.8.3\\mstest.analyzers.3.8.3.nupkg.sha512",
+    "C:\\Users\\4m\\.nuget\\packages\\mstest.testadapter\\3.8.3\\mstest.testadapter.3.8.3.nupkg.sha512",
+    "C:\\Users\\4m\\.nuget\\packages\\mstest.testframework\\3.8.3\\mstest.testframework.3.8.3.nupkg.sha512",
+    "C:\\Users\\4m\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\4m\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\4m\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.101\\microsoft.net.sdk.compilers.toolset.9.0.101.nupkg.sha512",
+    "C:\\Users\\4m\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\4m\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\4m\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\4m\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.11\\microsoft.netcore.app.host.win-x64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
